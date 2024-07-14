@@ -1,0 +1,10 @@
+
+
+inventory:
+  title: "test"
+  size: 54
+  items:
+    'row1':
+      funcion:
+        type: "paper"
+      material: PAPER

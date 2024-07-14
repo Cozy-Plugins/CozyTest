@@ -1,0 +1,6 @@
+com/github/smuddgge/test/WinningPlayer.class
+com/github/smuddgge/test/TestPlugin.class
+com/github/smuddgge/test/command/ReloadCommand.class
+com/github/smuddgge/test/TestLoader.class
+com/github/smuddgge/test/command/SpinCommand.class
+com/github/smuddgge/test/command/StartCommand.class

@@ -1,0 +1,13 @@
+
+test_reload:
+  type: "reload"
+  name: "testreload"
+
+cw_spin:
+  type: "spin"
+  name: "cwspin"
+
+cw_start:
+  type: "start"
+  name: "cwstart"
+  message: "Starting game."

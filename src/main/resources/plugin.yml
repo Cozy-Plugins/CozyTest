@@ -1,0 +1,5 @@
+name: Test
+version: '${project.version}'
+main: com.github.smuddgge.test.TestLoader
+api-version: '1.20'
+

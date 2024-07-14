@@ -1,0 +1,19 @@
+# This type of database saves the data
+# to a file located in this folder.
+sqlite:
+  enable: true
+
+# This type of database saves data to the cloud.
+mongo:
+  enable: false
+  connection_string: "connectionString"
+  database_name: "JoinLeave"
+
+# This type of database saves data on an
+# external server or the cloud.
+mysql:
+  enable: false
+  connection_string: "address:port"
+  database_name: "JoinLeave"
+  username: ""
+  password: ""

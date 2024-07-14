@@ -1,0 +1,18 @@
+
+materials:
+  '&eYellow': yellow_concrete
+  '&cRed': red_concrete
+  '&aGreen': lime_concrete
+  '&bBlue': light_blue_concrete
+  '&6Orange': orange_concrete
+  '&5Purple': purple_concrete
+  '&dPink': pink_concrete
+  '&6Brown': brown_concrete
+
+realms:
+  "team.red": red
+  "team.orange": orange
+  "team.yellow": yellow
+  "team.green": green
+  "team.blue": blue
+  "team.purple": purple
